@@ -1,30 +1,34 @@
-🌸 Hey, I'm Mathesh
-🧠 AI & Data Science Enthusiast • 🎬 App Builder • ☁️ Dreaming in Code
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mathesh+✨;AI+%26+Data+Science+Student+👨‍💻;I+build+projects+that+learn+%F0%9F%A7%A0;Turning+ideas+into+code+🚀;Always+curious%2C+always+growing+🌱" /> </p>
+Hey, I'm Mathesh
+💫 AI & Data Science Explorer • 🧠 ML Tinkerer • 🎬 App Maker • 🛠️ Creator of Digital Chaos
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1200&color=FF69C0&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mathesh+✨;AI+%26+Data+Science+Student+👨‍💻;I+love+building+smart+things+🤖;Turning+ideas+into+reality+🚀;Forever+Curious+%26+Always+Learning+🌱" /> </p>
+<div align="center">
 🌟 About Me
 
-I’m a final-year B.Tech AI & Data Science student who loves building things that think, react, and occasionally crash just to test my patience.
-I chase clarity, clean UI, and clever solutions — a blend of old-school logic with future-driven curiosity.
+A final-year B.Tech Artificial Intelligence & Data Science student trying to stitch together logic, creativity, and a little bit of chaos to build tech that actually works.
 
-💬 “I build to learn, and I learn by building.”
+I mix old-school discipline with future-minded curiosity.
+A traditional heart with a forward-thinking brain, always tinkering.
 
-🚀 What I’m Working On Right Now
+✨ “I learn by breaking things. I grow by fixing them.”
 
-🤖 WhatsApp Fake News Detection Bot (Tamil)
+</div>
+🚀 Current Projects
 
-🎬 CineMatch – Movie Recommendation System using TMDB API + Flask + MySQL
+🤖 WhatsApp Fake News Detection Bot (Tamil-Only)
 
-☁️ Weather Predictor App (Python)
+🎬 CineMatch — Movie Recommendation System (TMDB + Flask + MySQL)
+
+☁️ Python Weather Prediction App
 
 🗣️ Real-Time Voice Cloning (SV2TTS)
 
-🔍 Text Mining on Indian News for Interfaith Harmony
+🔍 AI Text Mining for Interfaith Harmony in Indian News
 
-📚 AI Question Bank Generator (PDF/EPUB → MCQ, Short, Long)
+📚 AI Question Bank Generator (PDF/EPUB → MCQ/Short/Long)
 
-🎤 English Communication Practice Tools
+🎤 English Speaking & GD Practice Tools
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack
 💻 Languages
 
 
@@ -32,14 +36,14 @@ I chase clarity, clean UI, and clever solutions — a blend of old-school logic 
 
 
 
-🤖 AI & ML
+🤖 AI • ML
 
 
 
 
 
 
-🧰 Libraries & Frameworks
+🧰 Frameworks & Tools
 
 
 
@@ -48,25 +52,19 @@ I chase clarity, clean UI, and clever solutions — a blend of old-school logic 
 
 🗄️ Databases
 
-🔧 Others
+⚙️ Development
 
 
 
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&icon_color=ff79c6&title_color=ff79c6&text_color=c9d1d9" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=ff79c6" height="150"> </p>
-🌸 Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square"> </p>
-📫 Connect With Me
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Matheshtamil&show_icons=true&theme=tokyonight&icon_color=ff79c6&title_color=ff79c6&text_color=c9d1d9" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheshtamil&theme=tokyonight&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheshtamil&layout=compact&theme=tokyonight&title_color=ff79c6" height="150"/> </div>
+🌸 Profile Visitor Count
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Matheshtamil&color=ff69b4&style=for-the-badge"> </div>
+✨ Thought for the Journey
 
-📧 matheshtamilselvan02@gmail.com
+“Every line of code is a tiny prayer that tomorrow will be smarter than today.”
 
-🌍 India
-
-✨ Small Thought
-
-“Every line of code is a footprint.
-Walk far, walk curious.”
-
-🐱 Fun Section
-<p align="center"> <img src="https://media.tenor.com/BzX7cN27oHgAAAAC/cat-coding.gif" width="250"> </p>
+<div align="center">
+🐱 Vibes
+<img src="https://media.tenor.com/BzX7cN27oHgAAAAC/cat-coding.gif" width="260"> </div>
