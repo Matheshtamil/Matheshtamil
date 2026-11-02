@@ -4,7 +4,7 @@ Hey, I'm Mathesh
 <div align="center">
 🌟 About Me
 
-A final-year B.Tech Artificial Intelligence & Data Science student trying to stitch together logic, creativity, and a little bit of chaos to build tech that actually works.
+A  B.Tech Artificial Intelligence & Data Science graduate trying to stitch together logic, creativity, and a little bit of chaos to build tech that actually works.
 
 I mix old-school discipline with future-minded curiosity.
 A traditional heart with a forward-thinking brain, always tinkering.
