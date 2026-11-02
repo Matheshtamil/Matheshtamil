@@ -17,6 +17,8 @@ A traditional heart with a forward-thinking brain, always tinkering.
 
 🎬 CineMatch — Movie Recommendation System (TMDB + Flask + MySQL)
 
+📬 Mail classifier
+
 ☁️ Python Weather Prediction App
 
 🔍 AI based Calculator
